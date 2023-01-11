@@ -1,0 +1,7 @@
+spring:
+  rabbitmq:
+    host: 39.106.76.27 #ip
+    port: 5672 #??
+    username: root #???
+    password: root #??
+    virtual-host: / #?????
